@@ -1,2 +1,4 @@
 # hello-world
-tutorial
+
+Hello!
+This was made while following the github tutorial.
